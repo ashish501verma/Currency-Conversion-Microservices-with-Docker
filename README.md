@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Docker
 
 ## Images
@@ -44,3 +45,7 @@ docker push ashish501verma/mmv2-currency-conversion-service:0.0.1-SNAPSHOT
 docker push ashish501verma/mmv2-api-gateway:0.0.1-SNAPSHOT
 watch -n 0.1 curl http://localhost:8000/sample-api
 ```
+=======
+# Currency-Conversion-Microservices-with-Docker
+Spring Boot Currency Conversion, Currency exchange, Naming Server, API gateway and Zipkin Microservices with Docker compose.
+>>>>>>> be55a8b0ebd61754b9d3092a49c4601e488dc919
